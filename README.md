@@ -1,5 +1,5 @@
 # Machine-Intelligence
-Machine Intelligence essentials
+Machine Intelligence essential algorithms
 
 ## Topics
 1. Numpy and Pandas
